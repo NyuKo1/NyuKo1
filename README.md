@@ -2,7 +2,7 @@
 - 👀 I’m interested in Codding (Learning), Games (GMod, 911 operator, minecraft and more), Anime and Movies.
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m not looking to collaborate.
-- 📫 How to reach me Discord: NyuKo#5595
+- 📫 How to reach me Discord: _nyuko
 
 <!---
 NyuKo1/NyuKo1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
